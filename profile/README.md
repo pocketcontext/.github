@@ -1,8 +1,4 @@
-<a href="https://www.pocketcontext.com/"><img src="https://raw.githubusercontent.com/pocketcontext/.github/main/profile/assets/logo.png" alt="PocketContext logo" width="64" height="64" /></a>
-
-# PocketContext
-
-**Your business. Your software. Your agent.**
+<a href="https://www.pocketcontext.com/"><img src="https://raw.githubusercontent.com/pocketcontext/.github/main/profile/assets/og-pocketcontext-v2.png" alt="PocketContext. Your business. Your software. Your agent. Business software, operated by your agent." width="1200" /></a>
 
 Business software built around the way you work. We build open-source foundations for applications your AI assistant can operate: finding information, updating records, and carrying out tasks using your data and business rules.
 
