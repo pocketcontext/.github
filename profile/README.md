@@ -9,6 +9,8 @@ Business software built around the way you work. We build open-source foundation
 | [DealContext](https://github.com/pocketcontext/dealcontext) | A shared sales CRM for contacts, pipelines, deals, and follow-ups, with an installable agent skill. |
 | [PeopleContext](https://github.com/pocketcontext/peoplecontext) | HR records, compensation, and reporting relationships, with access filtered by the requester’s identity, reporting chain, and HR role. |
 | [TaskContext](https://github.com/pocketcontext/taskcontext) | Shared project and issue tracking with dependencies, comments, evidence references, and change history. People and their agents use the same user identity. |
+| [RaiseContext](https://github.com/pocketcontext/raisecontext) | Startup fundraising with investor conversations, introductions, signed commitments, and funds received. |
+| [AccountContext](https://github.com/pocketcontext/accountcontext) | Expense evidence, subscriptions, payment matching, reimbursement approvals, and accountant exports. |
 
 These applications are operated through coding agents and do not include a conventional application frontend. Each repository documents its setup, requirements, and current scope.
 
