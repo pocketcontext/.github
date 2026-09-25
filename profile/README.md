@@ -11,6 +11,7 @@ Business software built around the way you work. We build open-source foundation
 | [TaskContext](https://github.com/pocketcontext/taskcontext) | Shared project and issue tracking with dependencies, comments, evidence references, and change history. People and their agents use the same user identity. |
 | [RaiseContext](https://github.com/pocketcontext/raisecontext) | Startup fundraising with investor conversations, introductions, signed commitments, and funds received. |
 | [AccountContext](https://github.com/pocketcontext/accountcontext) | Expense evidence, subscriptions, payment matching, reimbursement approvals, and accountant exports. |
+| [WikiContext](https://github.com/pocketcontext/wikicontext) | A shared knowledge base: immutable source documents and recordings, cited wiki pages with revision history, and a generated Obsidian export. |
 
 These applications are operated through coding agents and do not include a conventional application frontend. Each repository documents its setup, requirements, and current scope.
 
