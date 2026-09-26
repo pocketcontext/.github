@@ -12,8 +12,9 @@ Business software built around the way you work. We build open-source foundation
 | [RaiseContext](https://github.com/pocketcontext/raisecontext) | Startup fundraising with investor conversations, introductions, signed commitments, and funds received. |
 | [AccountContext](https://github.com/pocketcontext/accountcontext) | Expense evidence, subscriptions, payment matching, reimbursement approvals, and accountant exports. |
 | [WikiContext](https://github.com/pocketcontext/wikicontext) | A shared knowledge base: immutable source documents and recordings, cited wiki pages with revision history, and a generated Obsidian export. |
+| [ChatContext](https://github.com/pocketcontext/chatcontext) | Team channels, direct messages, and support conversations with threads, protected attachments, and explicit read acknowledgements. Visitors see only their own support conversations. |
 
-These applications are operated through coding agents and do not include a conventional application frontend. Each repository documents its setup, requirements, and current scope.
+These applications are operated through AI assistants and do not include a conventional application frontend. A separate browser client can give visitors access to their ChatContext support conversations. Each repository documents its setup, requirements, and current scope.
 
 Try the separate browser demos with synthetic data and predefined actions: [DealContext sales workflow](https://demo.pocketcontext.com/) · [PeopleContext permissions](https://people-demo.pocketcontext.com/). No signup required.
 
@@ -28,6 +29,6 @@ Try the separate browser demos with synthetic data and predefined actions: [Deal
 
 Have a recurring task, spreadsheet, or software workflow you’d like to replace? [Tell us what you do today and what would make it easier](https://www.pocketcontext.com/#interest).
 
-For technical questions and contributions, start with the relevant project's README and issue tracker.
+To get started technically, choose an application, follow its README to install its skill, and authenticate your AI assistant. For questions and contributions, use the relevant project's issue tracker.
 
 [Website · English](https://www.pocketcontext.com/) · [Sito · Italiano](https://www.pocketcontext.com/it/) · [Website · Deutsch](https://www.pocketcontext.com/de/) · [LinkedIn](https://www.linkedin.com/company/pocketcontext)
