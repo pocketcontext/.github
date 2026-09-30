@@ -23,7 +23,8 @@ Try the separate browser demos with synthetic data and predefined actions: [Deal
 | Project | What it provides |
 | --- | --- |
 | [PocketContext](https://github.com/pocketcontext/pocketcontext) | The shared server, built on PocketBase. Agents read application data through restricted SQL endpoints and make changes through the records API. |
-| [MetaContext](https://github.com/pocketcontext/metacontext) | A catalog of exposed application schemas. Discover tables and columns and document their meaning without reading source application records. |
+
+[MetaContext](https://github.com/pocketcontext/metacontext), the experimental application-schema catalog, is archived for now and was never deployed.
 
 ## Start with your workflow
 
