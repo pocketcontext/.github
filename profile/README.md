@@ -28,8 +28,6 @@ Try the separate browser demos with synthetic data and predefined actions: [Deal
 | [PocketContext](https://github.com/pocketcontext/pocketcontext) | The shared server, built on PocketBase. Agents read application data through restricted SQL endpoints and make changes through the records API. |
 | [PocketDeploy](https://github.com/pocketcontext/pocketdeploy) | Deployment tooling for OCI servers and ONCE applications, with ownership checks, resumable operations, and encrypted deployment recovery checkpoints. |
 
-[MetaContext](https://github.com/pocketcontext/metacontext), the experimental application-schema catalog, is archived for now and was never deployed.
-
 ## Start with your workflow
 
 Have a recurring task, spreadsheet, or software workflow you’d like to improve or automate? [Tell us what you do today and what would make it easier](https://www.pocketcontext.com/#interest).
